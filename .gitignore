@@ -30,3 +30,4 @@ desktop.ini
 # local helper scripts
 push-to-github.bat
 github-push.bat
+push-logo-update.bat
